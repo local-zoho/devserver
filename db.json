@@ -121,7 +121,6 @@
             "empReportingId": 10200,
             "empManagerId": 10100
         },
-       
         {
             "id": 2,
             "empId": 10301,
@@ -178,14 +177,25 @@
             "empManagerId": 10100
         },
         {
-            "id": 1,
-            "empId": 10300,
-            "empName": "Venkata Sai Karthikeya S",
-            "empOrgMail": "venkatasai.sv@zohocorp.com",
-            "empPersonalMail": "venkatasaikarthikeya@gmail.com",
+            "id": 2,
+            "empId": 10301,
+            "empName": "Santhana Lakshmi S",
+            "empOrgMail": "santhanalakshmi.s@zohocorp.com",
+            "empPersonalMail": "santhanalakshmi@gmail.com",
+            "empDesignation": "Member Technical Staff",
+            "empRole": "IOS Developer",
+            "empReportingId": 10201,
+            "empManagerId": 10100
+        },
+        {
+            "id": 3,
+            "empId": 10302,
+            "empName": "Shreemi Singh",
+            "empOrgMail": "shreeemi.singh@zohocorp.com",
+            "empPersonalMail": "shreemisingha@gmail.com",
             "empDesignation": "Member Technical Staff",
             "empRole": "Android Developer",
-            "empReportingId": 10200,
+            "empReportingId": 10202,
             "empManagerId": 10100
         },
         {
