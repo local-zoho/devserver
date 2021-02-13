@@ -177,6 +177,28 @@
             "empManagerId": 10100
         },
         {
+            "id": 96,
+            "empId": 10104,
+            "empName": "Venkata Ramana",
+            "empOrgMail": "venkata.ramana@zohocorp.com",
+            "empPersonalMail": "venkataramana@gmail.com",
+            "empDesignation": "Member Leadership Staff",
+            "empRole": "manager",
+            "empReportingId": 1,
+            "empManagerId": 1
+        },
+        {
+            "id": 97,
+            "empId": 10103,
+            "empName": "Kondandarama Shanmugham",
+            "empOrgMail": "kondanda.raman@zohocorp.com",
+            "empPersonalMail": "kondanda@gmail.com",
+            "empDesignation": "Member Leadership Staff",
+            "empRole": "Manager",
+            "empReportingId": 1,
+            "empManagerId": 1
+        },
+        {
             "id": 98,
             "empId": 10102,
             "empName": "Tirupathi",
