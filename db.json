@@ -1,16 +1,514 @@
 {
-employees:[
-{
-"id":1,
-"empId":3100,
-"name":"Sai Karthik",
-"roleId":1    
-},
-{
-"id":1,
-"empId":3100,
-"name":"Sai Karthik",
-"roleId":1    
-}  
-]    
+  "employees":[
+    {
+      "id": 321,
+      "name": "Nithin",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 322,
+      "name": "Charan",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 323,
+      "name": "Grandhe",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 324,
+      "name": "Subhash",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 325,
+      "name": "Sandeep",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 326,
+      "name": "Vijay",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 327,
+      "name": "Bhavitha",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 328,
+      "name": "Suraj",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 329,
+      "name": "Diana",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 330,
+      "name": "Vishnu",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 331,
+      "name": "Smaran",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 332,
+      "name": "Nimal",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 333,
+      "name": "Raja",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 334,
+      "name": "Sabari",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 335,
+      "name": "Kiran",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 336,
+      "name": "Sachin",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 337,
+      "name": "Ruban",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 338,
+      "name": "Vignesh",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 339,
+      "name": "Dinesh",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 340,
+      "name": "Divya",
+      "roleId": 1,
+      "managerId": 311
+    },
+    {
+      "id": 341,
+      "name": "Karthik",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 342,
+      "name": "Shaheen",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 343,
+      "name": "Vardhini",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 344,
+      "name": "Anu",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 345,
+      "name": "Roki",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 346,
+      "name": "Shashank",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 347,
+      "name": "Natraj",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 348,
+      "name": "Swetha",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 349,
+      "name": "Siddhu",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 350,
+      "name": "Nivedita",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 351,
+      "name": "Siva Balan",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 352,
+      "name": "Sankar",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 353,
+      "name": "Maha Raja",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 354,
+      "name": "Teja",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 355,
+      "name": "Shreemi",
+      "roleId": 2,
+      "managerId": 312
+    },
+    {
+      "id": 356,
+      "name": "Santa",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 357,
+      "name": "Keerthy",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 358,
+      "name": "Arun",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 359,
+      "name": "Rupesh",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 360,
+      "name": "Nagarajan",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 361,
+      "name": "Hari",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 362,
+      "name": "Mari",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 363,
+      "name": "Inzi",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 364,
+      "name": "Mani",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 365,
+      "name": "Usha",
+      "roleId": 3,
+      "managerId": 313
+    },
+    {
+      "id": 366,
+      "name": "Vamsi",
+      "roleId": 4,
+      "managerId": 314
+    },
+    {
+      "id": 367,
+      "name": "Sai Kumar",
+      "roleId": 4,
+      "managerId": 314
+    },
+    {
+      "id": 368,
+      "name": "Mourya",
+      "roleId": 4,
+      "managerId": 314
+    },
+    {
+      "id": 369,
+      "name": "Madhu",
+      "roleId": 4,
+      "managerId": 314
+    },
+    {
+      "id": 370,
+      "name": "Shreya",
+      "roleId": 4,
+      "managerId": 314
+    },
+    {
+      "id": 371,
+      "name": "Nisha",
+      "roleId": 5,
+      "managerId": 315
+    },
+    {
+      "id": 372,
+      "name": "Sheik",
+      "roleId": 5,
+      "managerId": 315
+    },
+    {
+      "id": 373,
+      "name": "Baarathi",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 374,
+      "name": "Aishwarya",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 375,
+      "name": "Ritika",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 376,
+      "name": "Ragavi",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 377,
+      "name": "Durga",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 378,
+      "name": "Rishu",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 379,
+      "name": "Reshma",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 380,
+      "name": "Vinothini",
+      "roleId": 6,
+      "managerId": 316
+    },
+    {
+      "id": 381,
+      "name": "Satish",
+      "roleId": 7,
+      "managerId": 317
+    },
+    {
+      "id": 382,
+      "name": "Sajid",
+      "roleId": 7,
+      "managerId": 317
+    },
+    {
+      "id": 383,
+      "name": "Wajid",
+      "roleId": 7,
+      "managerId": 317
+    },
+    {
+      "id": 384,
+      "name": "Avinash",
+      "roleId": 7,
+      "managerId": 317
+    },
+    {
+      "id": 385,
+      "name": "Gokul",
+      "roleId": 7,
+      "managerId": 317
+    },
+    {
+      "id": 386,
+      "name": "Stephen",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 387,
+      "name": "Stefan",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 388,
+      "name": "Damon",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 389,
+      "name": "Elena",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 390,
+      "name": "Jeremy",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 391,
+      "name": "Bonnie",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 392,
+      "name": "Caroline",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 393,
+      "name": "Tyler",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 394,
+      "name": "Lexi",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 395,
+      "name": "Enzo",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 396,
+      "name": "Valorie",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 397,
+      "name": "Alaric",
+      "roleId": 8,
+      "managerId": 318
+    },
+    {
+      "id": 398,
+      "name": "Niklaus",
+      "roleId": 9,
+      "managerId": 319
+    },
+    {
+      "id": 399,
+      "name": "Elijah",
+      "roleId": 9,
+      "managerId": 319
+    },
+    {
+      "id": 400,
+      "name": "Rebakkah",
+      "roleId": 9,
+      "managerId": 319
+    },
+    {
+      "id": 401,
+      "name": "Kol",
+      "roleId": 9,
+      "managerId": 319
+    },
+    {
+      "id": 402,
+      "name": "Finn",
+      "roleId": 9,
+      "managerId": 319
+    },
+    {
+      "id": 403,
+      "name": "Marcel",
+      "roleId": 9,
+      "managerId": 319
+    },
+    {
+      "id": 404,
+      "name": "Davina",
+      "roleId": 9,
+      "managerId": 319
+    },
+    {
+      "id": 405,
+      "name": "hayley",
+      "roleId": 9,
+      "managerId": 319
+    }
+  ]
 }
